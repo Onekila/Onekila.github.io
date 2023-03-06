@@ -1,6 +1,6 @@
 
 1. Audience profile
-      Audience: CS Student
+  - Audience: CS Student
     Venue: README on GitHub Pages
     Purpose: Explain how to host a resume on GitHub Pages.
     Additional purpose: Introduce and demonstrate the principles of Andrew Etter's

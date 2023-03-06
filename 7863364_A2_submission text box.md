@@ -1,13 +1,13 @@
 
 1. Audience profile
   - Audience: CS Student
-    Venue: README on GitHub Pages
-    Purpose: Explain how to host a resume on GitHub Pages.
-    Additional purpose: Introduce and demonstrate the principles of Andrew Etter's
-    book Modern Technical Writing
-    Desired Reaction: Students know how to host
-    Vocabulary: Technical and clear
-    Tone: Professional and objective
+  - Venue: README on GitHub Pages
+  - Purpose: Explain how to host a resume on GitHub Pages.
+  - Additional purpose: Introduce and demonstrate the principles of Andrew Etter's
+  - book Modern Technical Writing
+  - Desired Reaction: Students know how to host
+  - Vocabulary: Technical and clear
+  - Tone: Professional and objective
 
 2. [README](https://github.com/Onekila/Onekila.github.io#readme)
 

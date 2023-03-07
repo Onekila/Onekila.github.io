@@ -20,6 +20,7 @@ The first step is to create a new repository on Github
 
 ### Step 2:
 
+![Alt text](https://github.com/Onekila/Onekila.github.io/blob/main/gif/View_resume.gif)
 
 ## More Resources
 

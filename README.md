@@ -31,6 +31,7 @@ The first step is to create a new repository on Github
 ## Authors and Acknowledgments
 
 Author: Jiehao Lai
+
 Group members: Mia Battad, Yash Vyas, Yirong Wang
 
 ## FAQs 

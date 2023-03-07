@@ -14,7 +14,7 @@
 - Knowledgeable in front-end web development technologies such as HTML,CSS and JavaScript
 
 **Projects**
-- Developed a food ingredient website using HTML,CSS and JavaScript
+- Developed a food recipe search website using HTML,CSS and JavaScript
 - Created a mobile application using Java and Android Studio that allows users to take quiz and review courses
 
 **Contatct Information:**

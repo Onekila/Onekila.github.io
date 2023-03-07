@@ -20,6 +20,32 @@ The first step is to create a new repository on Github
 
 ### Step 2:
 
+1. Go to your repository.
+2. Click add file.
+3. Upload your README.md file.
+4. Commit changes.
+
+### Step 3: Create a Jekyll site
+
+1. Install jekyll. Here is a tuitorial to teach [how to install jekyll](https://jekyllrb.com/)
+2. Execute command in terminal "jekyll new my-awesome-site" to create a local site.
+
+### Step 4: Customize your Jekyll site
+
+Edit the `_config.yml` file to customize your site. Here are [comfiguration options](https://jekyllrb.com/docs/configuration/)
+
+### Step 5: Add your resume
+
+1. Open your site folder.
+2. Go to `_posts` folder.
+3. Rewrite the file with your resume
+
+### Step 6: Preview your site
+
+Preview your site locally by running the following command in your terminal: jekyll serve
+
+![Alt text](/Users/laisimon/Desktop/DeskTop/Assignment/comp3040/7863364_A2/gif/View_resume.gif)
+
 ![Alt text](https://github.com/Onekila/Onekila.github.io/blob/main/gif/View_resume.gif)
 
 ## More Resources

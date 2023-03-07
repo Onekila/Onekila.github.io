@@ -1,4 +1,4 @@
-# Hosting and Formatting a Resume using Markdown, VS Code, GitHub Pages, and Jekyll
+# Hosting and Formatting a Resume using Markdown, GitHub Pages, and Jekyll
 
 ## Purpose
 

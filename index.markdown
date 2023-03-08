@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Jiehao Lai
 
 > Computer Science student with experience in software development seeking a job
 

@@ -78,7 +78,7 @@ You can click fork on GitHub page and recustome it.(At this time I highly recomm
 1. Preview your site locally by running the following command in your terminal: jekyll serve.
 2. Open your browser and input localhost: 4000. (You can custom your localhost in `_config.yml`)
 
-![Alt text](/Users/laisimon/Desktop/DeskTop/Assignment/comp3040/7863364_A2/View_resume.gif)
+![Alt text](https://github.com/Onekila/Onekila.github.io/blob/main/gif/View_resume.gif)
 
 ### Step 8: Upload your site folder
 

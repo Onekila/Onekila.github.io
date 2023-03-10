@@ -1,4 +1,4 @@
-# Hosting a Resume Online using Modern Techinicals
+# Hosting a Resume online using Modern Techinicals
 
 ## Purpose
 

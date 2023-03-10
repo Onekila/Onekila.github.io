@@ -31,6 +31,10 @@ layout: base
 - Email: laij1@myumanitoba.ca
 - GitHub Page: [Onekila](https://github.com/Onekila/Onekila.github.io)
 
+**Interests**
+
+Reading, Traveling, Gaming
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
